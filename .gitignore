@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/SortedKata
+/CheckoutKata/bin/Debug/netcoreapp3.1
+/CheckoutKata/obj
+/SortedKata/bin/Debug/netcoreapp3.1
+/SortedKata/obj
